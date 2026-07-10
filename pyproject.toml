@@ -1,0 +1,15 @@
+[project]
+name = "learning-proj"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "kafka-python>=3.0.7",
+    "matplotlib>=3.11.0",
+    "numpy>=2.5.0",
+    "pandas>=3.0.3",
+    "psycopg>=3.3.4",
+    "torch>=2.13.0",
+    "torchvision>=0.28.0",
+]
